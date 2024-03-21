@@ -168,7 +168,10 @@ a:link {
     flex: 1;
   }
   .project-card {
-    min-width: 100%;
-    flex:1;
+    min-width: 90%;
+    flex: 1;
+  }
+  .container-bottom-right img {
+    max-width: 100%;
   }
 }
